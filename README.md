@@ -33,6 +33,6 @@
 <!-- ## 🌱 I’m currently learning ... -->
 ## 📫 How to reach me:
 <p>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">(https://www.linkedin.com/in/brianalvarezcuadros/)
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">(mailto:brian.alvarez.cuadros@gmail.com)
+<a href="https://www.linkedin.com/in/brianalvarezcuadros/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:brian.alvarez.cuadros@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
